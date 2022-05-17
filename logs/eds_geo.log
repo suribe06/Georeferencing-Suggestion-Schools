@@ -1,0 +1,15 @@
+[VALIDATION OK]. Info: Numero de columnas correcto en el archivo Hijos.xlsx.
+[VALIDATION ERROR]. Info: La columna distancia_colegio_actual en el archivo Hijos.xlsx no tiene el nombre estipulado.
+[VALIDATION OK]. Info: Llaves primarias completas en el archivo Hijos.xlsx.
+[VALIDATION OK]. Info: Numero de columnas correcto en el archivo Padres.xlsx.
+[VALIDATION OK]. Info: Nombre columnas correcto en el archivo Padres.xlsx.
+[VALIDATION OK]. Info: Llaves primarias completas en el archivo Padres.xlsx.
+[VALIDATION OK]. Info: Numero de columnas correcto en el archivo Colegios.xlsx.
+[VALIDATION OK]. Info: Nombre columnas correcto en el archivo Colegios.xlsx.
+[VALIDATION OK]. Info: Llaves primarias completas en el archivo Colegios.xlsx.
+[VALIDATION OK]. Info: Todos los colegios de Hijos.xlsx se encuentran en la en Colegios.xlsx.
+[VALIDATION OK]. Info: Todos los ninos de Hijos.xlsx tienen un Id_padre correcto.
+[VALIDATION ERROR]. Info: Hay ninos en Hijos.xlsx que tienen Periodos_aprobados incorrectos, porfavor revise la carpeta output.
+[VALIDATION ERROR]. Info: Hay elementos en Hijos.xlsx que no pueden ser georeferenciados, porfavor revise la carpeta output.
+[VALIDATION OK]. Info: Todos los elementos en Colegios.xlsx pueden ser georeferenciados.
+[EXECUTION OK]. Info: Se han sugerido colegios para los ninos que podian ser georeferenciados.
